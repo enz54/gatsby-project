@@ -23,7 +23,6 @@ const navbarHandler = () => {
     }
 }
 
-
     return (
       <nav className="navbar navbar-expand-sm bg-light navbar-light">
           <Link to="/" className="navbar-brand">
